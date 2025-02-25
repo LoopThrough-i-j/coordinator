@@ -1,0 +1,4 @@
+google-generativeai==0.8.4
+pillow==11.1.0
+faiss-cpu==1.10.0
+sentence-transformers==3.4.1
